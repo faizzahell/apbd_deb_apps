@@ -1,5 +1,5 @@
 import React from 'react';
-import SourceData from "../components/sourceData";
+import SourceData from "../components/SourceData";
 import Sidebar from "../components/Sidebar";
 
 const SourcePage: React.FC = () => {
